@@ -1,0 +1,32 @@
+{
+  "songs": [
+    {
+      "movie": "Anuradh",
+      "id": 1,
+      "title": "JabDardNahiTha",
+      "songLength": "4:50",
+      "singer": "Kishore"
+    },
+    {
+      "movie": "KabhiKabhi",
+      "id": 2,
+      "title": "MePalDoPal",
+      "songLength": "3:45",
+      "singer": "Mukesh"
+    },
+    {
+      "id": 3,
+      "movie": "Aradhana",
+      "title": "AajaTujhko",
+      "songLength": "4:45",
+      "singer": "Rafi"
+    },
+    {
+      "id": 4,
+      "movie": "Mungarumale",
+      "title": "Anisuthidhe",
+      "songLength": "5:45",
+      "singer": "SonuNigam"
+    }
+  ]
+}
